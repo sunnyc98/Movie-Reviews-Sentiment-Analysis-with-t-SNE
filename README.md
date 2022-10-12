@@ -1,10 +1,10 @@
 # Movie-Reviews-Sentiment-Analysis-with-t-SNE
 
-This is the Colab notebook for my individual research project in 2022 summer, my earliest experiences on NLP.
+Colab notebook for my individual research project in 2022 summer, my earliest experiences on NLP.
 
-It uses LSTM, Multi kernal 1D CNN and KoBERT architectures to carry out sentiment analysis of movie reviews in Korean.
+It uses LSTM, Multi kernal 1D CNN and KoBERT architectures for the sentiment analysis of movie reviews in Korean.
 
-It then uses t-SNE embeddings, a non-linear dimension reduction technique, in order to effectively visualize and analyze the intermediate layers of each model.
+It also uses t-SNE embeddings, a non-linear dimension reduction technique, to effectively visualize and analyze the intermediate layers of each model.
 
 Some of the results are shown below: 
 
