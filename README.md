@@ -8,4 +8,4 @@ It also uses t-SNE embeddings, a non-linear dimension reduction technique, to ef
 
 Some of the results are shown below: 
 
-![image](https://user-images.githubusercontent.com/97519387/195113909-d2527500-e98d-4ff7-88e4-9babd8f33b4b.png)
+![image](https://user-images.githubusercontent.com/97519387/195378061-e11dbcc6-d8b6-4cde-8b38-9d0ba6aeef49.png)
